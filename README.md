@@ -13,10 +13,10 @@ scheme and the vorticity deviation is evaluated along the trajectory. Additional
 values of the vorticity field are obtained using Hermite interpolation for the 
 trajectories and Lagrange interpolation for the vorticity field.
 
-Input parameters can be explained as follows:
-  -d TIME_STEP, Time difference between successive snapshots.
-  -i TIME_INITIAL, Initial time to seed integrations
-  -f TIME_FINAL, Final time to seed integrations.
-  -w TIME_WINDOW, Integration window
-  -x X_SUBGRID, Spatial interpolation (not implemented)
+Input parameters can be explained as follows:<br />
+  -d TIME_STEP, Time difference between successive snapshots.<br />
+  -i TIME_INITIAL, Initial time to seed integrations<br />
+  -f TIME_FINAL, Final time to seed integrations.<br />
+  -w TIME_WINDOW, Integration window<br />
+  -x X_SUBGRID, Spatial interpolation (not implemented)<br />
   -t T_SUBGRID, Number of subgrid points to be interpolated.
