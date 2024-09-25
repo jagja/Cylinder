@@ -13,7 +13,7 @@ scheme and the vorticity deviation is evaluated along the trajectory. Additional
 values of the vorticity field are obtained using Hermite interpolation for the 
 trajectories and Lagrange interpolation for the vorticity field.
 
-Mostly this is written in the structured paradigm, with some relaince on the
+Mostly this is written in the structured paradigm, with some reliance on the
 imperative.
 
 Input parameters can be explained as follows:<br />
