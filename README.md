@@ -14,9 +14,9 @@ values of the vorticity field are obtained using Hermite interpolation for the
 trajectories and Lagrange interpolation for the vorticity field.
 
 Input parameters can be explained as follows:<br />
-  -d Time difference between successive snapshots.<br />
-  -i Initial time to seed integrations<br />
-  -f Final time to seed integrations.<br />
-  -w Integration window<br />
-  -x Spatial interpolation (not implemented)<br />
-  -t Number of subgrid points to be interpolated.
+  -d, Time difference between successive snapshots.<br />
+  -i, Initial time to seed integrations<br />
+  -f, Final time to seed integrations.<br />
+  -w, Integration window<br />
+  -x, Spatial interpolation (not implemented)<br />
+  -t, Number of subgrid points to be interpolated.
