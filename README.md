@@ -24,4 +24,6 @@ Input parameters can be explained as follows:<br />
   -x, Spatial interpolation (not implemented).<br />
   -t, Number of subgrid points to be interpolated.
 
-![screenshot](lavd_64_84.png)
+For example, LAVD_63_83 plots the accumulated vorticity starting from a 
+uniform grid at frame 63, integrating forward 20 frames.
+![screenshot](lavd_63_83.png)
