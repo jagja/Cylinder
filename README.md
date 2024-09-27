@@ -23,3 +23,5 @@ Input parameters can be explained as follows:<br />
   -w, Integration window.<br />
   -x, Spatial interpolation (not implemented).<br />
   -t, Number of subgrid points to be interpolated.
+
+![alt text](https://github.com/jagja/Cylinder/blob/[branch]/image.jpg?raw=true)
