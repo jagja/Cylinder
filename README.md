@@ -24,4 +24,4 @@ Input parameters can be explained as follows:<br />
   -x, Spatial interpolation (not implemented).<br />
   -t, Number of subgrid points to be interpolated.
 
-![alt text](https://github.com/jagja/Cylinder/blob/[branch]/image.jpg?raw=true)
+![screenshot](lavd_64_84.png)
